@@ -1,5 +1,5 @@
 # Lakshop
-Shop bán hàng thời trang phụ kiện sử dụng reactjs
+Shop bán hàng thời trang phụ kiện sử dụng reactjs tailwindcss
 Đây là trang giới thiệu cho shop bán quần áo và phụ kiện sử dụng Mock API. Trang web này bao gồm các trang sau:
 1.	Trang chủ: Hiển thị danh sách sản phẩm mới nhất
 2.	Trang sản phẩm : Hiển thị các sản phẩm theo danh mục
